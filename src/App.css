@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+
+header {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+header h1 {
+    color: #AAA;
+    font-size: 36px;
+    font-weight: 400;
+    text-align: center;
+}
+
+header h1 strong {
+    color: #313131;
+    font-style:italic
+  }
