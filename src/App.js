@@ -16,7 +16,7 @@ function App() {
     const mangaAPI = await fetch (`https://api.jikan.moe/v4/top/manga`)
       .then(res => res.json())
 
-      setTopManga(mangaAPI.data.slice(0,5))
+      setTopManga(mangaAPI.data.slice(0,10))
   }
 
   useEffect(() => {
