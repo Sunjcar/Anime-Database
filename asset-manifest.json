@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Manga-Database/static/css/main.72cc358b.css",
-    "main.js": "/Manga-Database/static/js/main.1eaa4ff8.js",
+    "main.css": "/Manga-Database/static/css/main.f5212bc0.css",
+    "main.js": "/Manga-Database/static/js/main.1ad62158.js",
     "static/js/787.cf6b4aea.chunk.js": "/Manga-Database/static/js/787.cf6b4aea.chunk.js",
     "index.html": "/Manga-Database/index.html",
-    "main.72cc358b.css.map": "/Manga-Database/static/css/main.72cc358b.css.map",
-    "main.1eaa4ff8.js.map": "/Manga-Database/static/js/main.1eaa4ff8.js.map",
+    "main.f5212bc0.css.map": "/Manga-Database/static/css/main.f5212bc0.css.map",
+    "main.1ad62158.js.map": "/Manga-Database/static/js/main.1ad62158.js.map",
     "787.cf6b4aea.chunk.js.map": "/Manga-Database/static/js/787.cf6b4aea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72cc358b.css",
-    "static/js/main.1eaa4ff8.js"
+    "static/css/main.f5212bc0.css",
+    "static/js/main.1ad62158.js"
   ]
 }
