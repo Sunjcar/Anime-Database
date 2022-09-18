@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Sidebar({ topManga }) {
+function Sidebar({ topManga }, props) {
     return (
         <aside>
             <nav>
@@ -15,7 +15,7 @@ function Sidebar({ topManga }) {
                         {manga.title}
                         <figure>
                             <img
-                                src={manga.images.jpg.small_image_url} alt='Anime' />
+                                src={manga.images.jpg.small_image_url} alt='Manga' />
                         </figure>
                     </a>
                 ))}
